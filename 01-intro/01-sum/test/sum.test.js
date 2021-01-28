@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const sum = require('../sum');
 const expect = require('chai').expect;
 
